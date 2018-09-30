@@ -1,0 +1,18 @@
+0.4 created a simple launch menu
+0.5 added collision, changed some colors
+0.5.1 Fixed the player stopping when the wrong key was released, added a changelog
+0.6.0 Created Launch GUI w/ options for launching server+client or just client, as well as IP + Nickname + Team input. 
+0.6.1 Color choice is now respected (Note: has not been tested over network)
+0.6.2 Handled server errors on client disconnect and subsequent "socket closed" errors
+0.6.3 Server is now launched as a process from Launcher.java (instead of an inner thread)
+0.6.4 Minor bug fix, created a terrible GUI for the server (as part of the fix) The player's movement is no longer interrupted by the sever
+0.6.5a Deleted Pause Menu and replaced with Confirm dialog to close client
+0.6.5b Decreased variable scope wherever possible
+0.7.1 Added Obstacles
+0.7.2 Bug Fixes
+0.7.3 Integrated Color fix, Name fix, Spawn fix
+0.7.4 Some JavaDoc commenting
+0.8.0 Server GUI Overhaul, now displays connected users and logs all chat messages
+
+0.8.1 Documentation part 1
+0.8.2 Documentation part 2
